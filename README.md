@@ -54,8 +54,6 @@ The repo structure:
 
 /data/: Contains diabetes.csv (original dataset).
 
-/artifacts/: Saved models (e.g., rf_baseline.joblib), plots (e.g., featimp_rf.png), and summaries (e.g., rf_xgb_baseline_summary.json).
-
 diabetes_prediction.ipynb: The main Colab notebook with cells 1-8.
 
 requirements.txt: List of dependencies.
